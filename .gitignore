@@ -1,0 +1,8 @@
+# Ignoramos el contenido de las siguientes carpetas:
+
+data/
+final/
+info/
+original_data/
+pickle/
+report/
